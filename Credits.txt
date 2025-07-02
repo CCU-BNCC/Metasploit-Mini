@@ -1,0 +1,7 @@
+🤝 Credits
+
+Developer: Md Abdullah 🇧🇩
+
+Tool Name: Metasploit Mini Pro for Termux
+
+Thanks to: Kali, Offensive Security, Metasploit Contributors
